@@ -106,21 +106,21 @@ analytics:
 author:
   name             : "심성환"
   avatar           : https://cdn.pixabay.com/photo/2012/02/27/16/57/cat-17430__340.jpg  # 프로필 사진 path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "공부를 하자"  #biography 자기소개 줄바꿈은 <br>, 굵은 글씨는 **글씨**
+  bio              : "**공부** 하자"  #biography 자기소개 줄바꿈은 <br>, 굵은 글씨는 **글씨**
   location         : "대한민국"   #지역
   email            : #이메일 주소
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
       url: mailto:hoanshim01@handong.ac.kr
-    #- label: "Website"
-    #  icon: "fas fa-fw fa-link"
+    - label: "Website"
+      icon: "fas fa-fw fa-link"
       # url: "https://your-website.com"
-    #- label: "Twitter"
-    #  icon: "fab fa-fw fa-twitter-square"
+    - label: "Twitter"
+      icon: "fab fa-fw fa-twitter-square"
       # url: "https://twitter.com/"
-    #- label: "Facebook"
-    #  icon: "fab fa-fw fa-facebook-square"
+    - label: "Facebook"
+      icon: "fab fa-fw fa-facebook-square"
       # url: "https://facebook.com/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
@@ -132,20 +132,20 @@ author:
 # Site Footer
 footer:
   links:
-    - label: ""
+    - label: "Email"
       icon: "fab fa-fw fa-twitter-square"
       url: mailto:hoanshim01@handong.ac.kr
-    #- label: "Facebook"
-    #  icon: "fab fa-fw fa-facebook-square"
+    - label: "Facebook"
+      icon: "fab fa-fw fa-facebook-square"
       # url:
-    #- label: "GitHub"
-    #  icon: "fab fa-fw fa-github"
+    - label: "GitHub"
+      icon: "fab fa-fw fa-github"
       # url:
-    #- label: "GitLab"
-    #  icon: "fab fa-fw fa-gitlab"
+    - label: "GitLab"
+      icon: "fab fa-fw fa-gitlab"
       # url:
-    #- label: "Bitbucket"
-    #  icon: "fab fa-fw fa-bitbucket"
+    - label: "Bitbucket"
+      icon: "fab fa-fw fa-bitbucket"
       # url:
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"

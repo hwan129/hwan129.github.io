@@ -2,9 +2,9 @@
 main:
   #- title: "Quick-Start Guide"
   # url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
-   - title: "Introduce"
+   - title: "C"
      url: /about/
-   - title: "Category"
+   - title: "C++"
      url: "/categories/"
-   - title: "Tags"
+   - title: "Java"
      url: /tags/
