@@ -12,21 +12,21 @@
 
 # theme                  : "minimal-mistakes-jekyll"
 # remote_theme           : "mmistakes/minimal-mistakes"
-minimal_mistakes_skin    : "dirt" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
+minimal_mistakes_skin    : "sunrise" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 
 # Site Settings
 locale                   : "ko-KR"        #블로그 언어
-title                    : "Seonghwan.log"   #블로그 이름
+title                    : "초보 개발자"   #블로그 이름
 title_separator          : "-"
-subtitle                 : # site tagline that appears below site title in masthead
+subtitle                 : "힘들지만 재밌어" # 화면 제목 하단 소제목 site tagline that appears below site title in masthead
 name                     : "심성환"    #블로그에서 사용될 닉네임
 description              : "공부를 열심히 하자"
 url                      : https://hwan129.github.io/     # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
-baseurl                  : # the subpath of your site, e.g. "/blog"
+baseurl                  : # 폴백(예기치 못한 오류) the subpath of your site, e.g. "/blog"
 repository               : https://github.com/hwan129/hwan129.github.io/tree/main#hwan129githubio # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
-teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
+teaser                   : # 폴백일 때 보일 이미지 path of fallback teaser image, e.g. "/assets/images/500x300.png"
 logo                     : # path of logo image to display in the masthead, e.g. "/assets/images/88x88.png"
-masthead_title           : # overrides the website title displayed in the masthead, use " " for no title
+masthead_title           : "열심히 공부" # overrides the website title displayed in the masthead, use " " for no title
 # breadcrumbs            : false # true, false (default)
 words_per_minute         : 200
 comments:
@@ -106,13 +106,13 @@ analytics:
 author:
   name             : "심성환"
   avatar           : https://cdn.pixabay.com/photo/2012/02/27/16/57/cat-17430__340.jpg  # 프로필 사진 path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "공부를 하자"  #biography
-  location         : "대한민국"
-  email            :
+  bio              : "공부를 하자"  #biography 자기소개 줄바꿈은 <br>, 굵은 글씨는 **글씨**
+  location         : "대한민국"   #지역
+  email            : #이메일 주소
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-      url: "mailto:hoanshim01@handong.ac.kr"
+      url: mailto:hoanshim01@handong.ac.kr
     #- label: "Website"
     #  icon: "fas fa-fw fa-link"
       # url: "https://your-website.com"
@@ -218,7 +218,7 @@ sass:
 
 # Outputting
 permalink: /:categories/:title/
-paginate: 6 # amount of posts to show
+paginate: 15 # amount of posts to show
 paginate_path: /page:num/
 timezone: # https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 

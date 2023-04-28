@@ -123,9 +123,11 @@ blockquote {
   }
 }
 
-/* links */
+/* 하이퍼 링크 밑줄 제거 links */
 
 a {
+  text-decoration: none;
+
   &:focus {
     @extend %tab-focus;
   }

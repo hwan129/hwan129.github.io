@@ -152,12 +152,12 @@ $x-large: 1280px !default;
 $max-width: $x-large !default;
 
 /*
-   Grid
+   Grid  너비 조절
    ========================================================================== */
 
-$right-sidebar-width-narrow: 200px !default;
-$right-sidebar-width: 300px !default;
-$right-sidebar-width-wide: 400px !default;
+$right-sidebar-width-narrow: 100px !default; //200px
+$right-sidebar-width: 200px !default;        //300px
+$right-sidebar-width-wide: 250px !default;   //400px
 
 /*
    Other
