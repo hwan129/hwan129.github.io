@@ -1,11 +1,11 @@
 # Setup
-title: Seonghwan's blog
+title: Seonghwan
 description: 과제가 너무 많아...
 url: https://hwan129.github.io/
-avatar: https://media.istockphoto.com/id/1408518230/ko/%EC%82%AC%EC%A7%84/%EC%88%98%EC%A4%91-%EB%B0%94%EB%8B%A4-%ED%91%B8%EB%A5%B8-%ED%83%9C%EC%96%91-%EB%B9%9B%EC%9C%BC%EB%A1%9C-%EA%B9%8A%EC%9D%80-%EB%AC%BC-%EC%8B%AC%EC%97%B0.jpg?b=1&s=170667a&w=0&k=20&c=97ou6LO_AKJS8Fols7EqavWI4auJgegoh6Wd6ZsdwE4=
+avatar: https://cdn.pixabay.com/photo/2017/04/30/18/33/kittens-2273598__340.jpg
 paginate: 5
 permalink: pretty
-cover_image: https://cdn.pixabay.com/photo/2016/11/29/05/45/astronomy-1867616__340.jpg
+cover_image: https://cdn.pixabay.com/photo/2021/11/30/00/54/sweden-6834164__340.jpg
 
 # Gems
 plugins:
@@ -33,7 +33,7 @@ twitter:
   card: summary
 logo: logo.png
 social:
-  name: Songzi Vong
+  name: 심성환
   links:
     - https://twitter.com/vszhub
     - https://github.com/vszhub
@@ -54,6 +54,6 @@ sass:
 
 # Specify the author for blog posts
 author:
-  name: Songzi Vong
-  url: https://github.com/vszhub/
-  email: vszhub@gmail.com
+  name: 심성환
+  url: https://hwan129.github.io/
+  email: hoanshim01@hadong.ac.kr
