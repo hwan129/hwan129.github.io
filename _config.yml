@@ -12,7 +12,7 @@
 
 # theme                  : "minimal-mistakes-jekyll"
 # remote_theme           : "mmistakes/minimal-mistakes"
-minimal_mistakes_skin    : "air" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
+minimal_mistakes_skin    : "dirt" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 
 # Site Settings
 locale                   : "ko-KR"        #블로그 언어
@@ -106,7 +106,7 @@ analytics:
 author:
   name             : "심성환"
   avatar           : https://cdn.pixabay.com/photo/2012/02/27/16/57/cat-17430__340.jpg  # 프로필 사진 path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "공부 하자"  #biography
+  bio              : "공부를 하자"  #biography
   location         : "대한민국"
   email            :
   links:
@@ -290,3 +290,12 @@ defaults:
       comments: # true
       share: true
       related: true
+
+
+  # _pages :아래를 새로 추가
+  - scope:
+      path: "_pages"
+      pype: pages
+    values:
+      layout: single
+      author_profile: true
