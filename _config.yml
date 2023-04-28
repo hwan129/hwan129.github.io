@@ -1,11 +1,11 @@
 # Setup
-title: Not Pure Poole
-description: A simple, beautiful, and powerful Jekyll theme for blogs
-url: https://vszhub.github.io
-avatar: /avatar.jpeg
+title: Seonghwan's blog
+description: 과제가 너무 많아...
+url: https://hwan129.github.io/
+avatar: https://media.istockphoto.com/id/1408518230/ko/%EC%82%AC%EC%A7%84/%EC%88%98%EC%A4%91-%EB%B0%94%EB%8B%A4-%ED%91%B8%EB%A5%B8-%ED%83%9C%EC%96%91-%EB%B9%9B%EC%9C%BC%EB%A1%9C-%EA%B9%8A%EC%9D%80-%EB%AC%BC-%EC%8B%AC%EC%97%B0.jpg?b=1&s=170667a&w=0&k=20&c=97ou6LO_AKJS8Fols7EqavWI4auJgegoh6Wd6ZsdwE4=
 paginate: 5
 permalink: pretty
-cover_image: /bg.jpeg
+cover_image: https://cdn.pixabay.com/photo/2016/11/29/05/45/astronomy-1867616__340.jpg
 
 # Gems
 plugins:
